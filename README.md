@@ -1,2 +1,2 @@
-#  Algoritmo e Ló     gica
+#  Algoritmo e Lógica de Programação
  
